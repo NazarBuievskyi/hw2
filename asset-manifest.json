@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NazarBuievskyi/hw2/static/css/main.cfee172d.css",
-    "main.js": "/NazarBuievskyi/hw2/static/js/main.0c2aa8a8.js",
-    "static/js/787.66cb4309.chunk.js": "/NazarBuievskyi/hw2/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/NazarBuievskyi/hw2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/NazarBuievskyi/hw2/index.html",
-    "main.cfee172d.css.map": "/NazarBuievskyi/hw2/static/css/main.cfee172d.css.map",
-    "main.0c2aa8a8.js.map": "/NazarBuievskyi/hw2/static/js/main.0c2aa8a8.js.map",
-    "787.66cb4309.chunk.js.map": "/NazarBuievskyi/hw2/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/hw2/static/css/main.cfee172d.css",
+    "main.js": "/hw2/static/js/main.d06c2a47.js",
+    "static/js/787.66cb4309.chunk.js": "/hw2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hw2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hw2/index.html",
+    "main.cfee172d.css.map": "/hw2/static/css/main.cfee172d.css.map",
+    "main.d06c2a47.js.map": "/hw2/static/js/main.d06c2a47.js.map",
+    "787.66cb4309.chunk.js.map": "/hw2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfee172d.css",
-    "static/js/main.0c2aa8a8.js"
+    "static/js/main.d06c2a47.js"
   ]
 }
