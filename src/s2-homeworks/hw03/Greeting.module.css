@@ -1,22 +1,42 @@
 .greetingForm {
+    margin-top: 2rem;
+    margin-bottom: 4rem;
 }
 
 .inputAndButtonContainer {
+    display: flex;
+    align-items: center;
 }
 
 .error {
 }
 
 .input {
+
 }
 
 .input:focus {
+    background: red;
 }
 
 .errorInput {
+    width: 15rem;
+    height: 2rem;
+    display: flex;
+    padding: 1rem 0.2rem;
+    border-radius: 3px;
 }
 
 .button {
+    margin-left: 1rem;
+    align-self: flex-start;
+    border-radius: 3px;
+    height: 2.3rem;
+    display: block;
+    border: none;
+    color: white;
+    background: #0066CC;
+    padding: 0.5rem 2rem;
 }
 
 .button:focus {
@@ -29,7 +49,10 @@
 }
 
 .text {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.5);
 }
 
 .greeting {
+    color: rgba(0, 0, 0, 0.5);
 }
