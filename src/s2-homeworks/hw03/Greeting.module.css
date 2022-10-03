@@ -37,6 +37,11 @@
     color: white;
     background: #0066CC;
     padding: 0.5rem 2rem;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: #002e5c;
 }
 
 .button:focus {
