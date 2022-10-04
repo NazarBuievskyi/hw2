@@ -23,6 +23,7 @@
 
 .input:focus {
     border-color: #00cc22;
+    background: rgba(161, 252, 173, 0.65);
 }
 
 .errorInput {

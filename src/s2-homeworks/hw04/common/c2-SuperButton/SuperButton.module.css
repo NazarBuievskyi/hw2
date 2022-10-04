@@ -1,16 +1,20 @@
 .button {
+
 }
 
 .disabled {
+    background: gold;
 }
 
 .secondary {
 }
 
 .default {
+    background: #0066CC;
 }
 
 .red {
+    background: red;
 }
 
 .default:hover {
@@ -33,4 +37,6 @@
 }
 
 .button:disabled {
+    background: #7e8a93;
+    color: white;
 }
