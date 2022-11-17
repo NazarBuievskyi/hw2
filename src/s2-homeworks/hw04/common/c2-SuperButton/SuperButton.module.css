@@ -1,16 +1,26 @@
 .button {
-
+    position: relative;
+    margin: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    background: #ffffff;
+    padding: 5px 10px;
+    border-radius: 10px;
 }
 
 .disabled {
     background: gold;
+    opacity: 0.5;
+    cursor: auto;
 }
 
 .secondary {
+    background: cadetblue;
+    color: white
 }
 
 .default {
-    background: #0066CC;
+    background: #ffffff;
 }
 
 .red {
@@ -18,6 +28,7 @@
 }
 
 .default:hover {
+    background: #0066CC;
 }
 
 .red:hover {
