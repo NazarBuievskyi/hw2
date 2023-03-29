@@ -13,11 +13,12 @@
 }
 
 .superInput {
+    background: #ff00ac;
 }
 
 .errorInput {
     margin: 10px;
-    background: #ffffff;
+    background: #ff0000;
     color: #00af00;
     border: red;
 }
